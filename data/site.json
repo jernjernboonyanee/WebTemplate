@@ -1,15 +1,15 @@
 {
   "site": {
-    "name": "Pixelverse",
-    "title": "Your Name | Pixelverse",
+    "name": "Jernjern",
+    "title": "Boonyanee| Thanasahavorakhun",
     "description": "Personal links, projects, and adventures across the universe.",
     "language": "en",
     "favicon": "./favicon.svg",
     "theme": "cosmic-pixel"
   },
   "profile": {
-    "name": "YOUR_NAME",
-    "username": "@YOUR_USERNAME",
+    "name": "Jernjern",
+    "username": "@jernjernboonyanee",
     "headline": "Developer • Creator • Space Explorer",
     "avatar": "./assets/avatar/profile.svg",
     "status": {
